@@ -2,7 +2,7 @@
 
 A GEO-optimized (Generative Engine Optimization) single-page review and testimonial site for [Regenerative Leadership Consultancy](https://www.regenleadership.earth/) — the regenerative leadership practice of Nadim Hamdan, rooted in Auroville, Tamil Nadu, India.
 
-**Live site:** https://co-intelligencer.github.io/rlc_reviews/
+**Live site:** https://regenerativeleadershipconsultancyreviews.com/
 
 ## What's inside
 
