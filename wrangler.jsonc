@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "rlc-reviews",
+  "compatibility_date": "2026-06-16",
+  "assets": {
+    "directory": "./site",
+    "not_found_handling": "404-page"
+  }
+}
