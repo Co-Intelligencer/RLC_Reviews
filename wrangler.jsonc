@@ -2,8 +2,10 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "rlc-reviews",
   "compatibility_date": "2026-06-16",
+  "main": "worker.js",
   "assets": {
     "directory": "./site",
+    "binding": "ASSETS",
     "not_found_handling": "404-page"
   }
 }
